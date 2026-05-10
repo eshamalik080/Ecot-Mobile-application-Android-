@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "264561116043",
+    "firebase_url": "https://ecot-5cebb-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ecot-5cebb",
+    "storage_bucket": "ecot-5cebb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264561116043:android:25e58368703875e094258e",
+        "android_client_info": {
+          "package_name": "com.example.ecot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-a2HNLl3_dJ1BcW9VUPVPTWLmLBJX3qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264561116043:android:a4e66e7ed6c230f594258e",
+        "android_client_info": {
+          "package_name": "com.example.energycontrol"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-a2HNLl3_dJ1BcW9VUPVPTWLmLBJX3qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
